@@ -1,6 +1,0 @@
-package msg;
-option go_package = "./msg";
-
-message Hello {
-    required string name = 1;
-}
